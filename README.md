@@ -3,8 +3,6 @@
 
 Este repositório contém a solução para um desafio técnico, dividido em cinco tópicos. Cada tópico aborda um problema específico, implementado em JavaScript. Abaixo, você encontrará uma descrição detalhada de cada tópico, instruções para execução.
 
----
-
 ## 🚀 Tópicos
 
 ### Tópico 1: Cálculo da SOMA
