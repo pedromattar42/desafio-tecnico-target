@@ -12,6 +12,7 @@ Este código calcula a soma de todos os números inteiros de 1 até um índice d
 **Como executar:**
 ```bash
 node topico-1.js
+```
 
 ### Tópico 2: Verificação de número na sequência de Fibonacci
 Este programa verifica se um número informado pertence à sequência de Fibonacci.
